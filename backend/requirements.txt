@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+motor
+pydantic[email]
+passlib[bcrypt]
+python-jose[cryptography]
+python-multipart
+scikit-learn
+pandas
+numpy
+nltk
+spacy
+joblib
+pymongo
