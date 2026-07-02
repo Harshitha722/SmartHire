@@ -1,4 +1,4 @@
-# SmartHire AI 🚀
+# SmartHire AI 
 
 > AI-powered Resume Screening, Skill Gap Analysis, and Job Recommendation Platform.
 
@@ -20,10 +20,32 @@ It analyzes resumes to extract skills, predict suitable job roles, score the res
 
 ## 🏗️ Tech Stack
 
-**Frontend:** React, Vite, React Router, Chart.js, Vanilla CSS (Glassmorphism UI)
-**Backend:** Python, FastAPI, Uvicorn, PyPDF2
-**Machine Learning:** Scikit-Learn, Pandas, NumPy, spaCy, NLTK, Joblib
-**Database:** MongoDB
+<div align="left">
+  
+  **Frontend** <br>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
+
+  <br><br>
+  **Backend** <br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white" />
+
+  <br><br>
+  **Machine Learning & Data Science** <br>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" />
+
+  <br><br>
+  **Database** <br>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  
+</div>
 
 ## 📂 Folder Structure
 ```
