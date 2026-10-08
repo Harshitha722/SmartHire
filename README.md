@@ -119,7 +119,4 @@ Once the backend is running, visit:
 - **Swagger UI:** `http://127.0.0.1:8000/docs`
 - **ReDoc:** `http://127.0.0.1:8000/redoc`
 
-## 🔮 Future Scope
-- Cover Letter Generation using LLMs.
-- Interview Question Generation based on missing skills.
-- Email Notifications for candidates upon status updates.
+
