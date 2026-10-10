@@ -2,7 +2,7 @@
 
 > AI-powered Resume Screening, Skill Gap Analysis, and Job Recommendation Platform.
 
-SmartHire AI is a modern SaaS platform designed to bridge the gap between candidates and recruiters using advanced Machine Learning and NLP. 
+SmartHire AI is a platform designed to bridge the gap between candidates and recruiters using advanced Machine Learning and NLP. 
 It analyzes resumes to extract skills, predict suitable job roles, score the resume against ATS standards, and recommend the best-matching job openings.
 
 ## 🌟 Features
